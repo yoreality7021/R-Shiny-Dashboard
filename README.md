@@ -25,4 +25,4 @@ https://shiny.rstudio.com/gallery/widget-gallery.html
 
 6.Save the ui, server, global code in R.(ex: ui.R, server.R, global.R)
 
-7.How to upload to website and show it on the website. You can see the ppt which create by myself that you clearly know how to do.
+7.How to upload to website and show it on the website. You can see the ppt which create by myself that you clearly know how to do
