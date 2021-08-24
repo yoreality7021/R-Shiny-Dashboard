@@ -1,0 +1,5 @@
+# Shiny with login function 
+# Because there is a login function, the global.r need to load ui.r first.
+# use the source function to load ui.r.
+# why we should load the ui.r first? because we write at least one ui in ui function, so that need to load ui.r first.
+# also don't write the real route, use the code to replace it, because the shiny will not find the real file in two places.
